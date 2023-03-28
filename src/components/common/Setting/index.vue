@@ -32,7 +32,7 @@ const show = computed({
   set(visible: boolean) {
     emit('update:visible', visible)
   },
-})
+}) 
 </script>
 
 <template>
