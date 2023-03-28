@@ -46,18 +46,17 @@ onMounted(() => {
       </h2>
       <div class="p-2 space-y-2 rounded-md bg-neutral-100 dark:bg-neutral-700">
         <p>
-          此项目开源于
           <a
             class="text-blue-600 dark:text-blue-500"
-            href="https://github.com/Chanzhaoyu/chatgpt-web"
+            href="https://xwbot.xaloweb.com"
             target="_blank"
           >
-            Github
-          </a>
-          ，免费且基于 MIT 协议，没有任何形式的付费行为！
+            XWBOT
+          </a> - Chatbot với AI tại
+         
         </p>
         <p>
-          如果你觉得此项目对你有帮助，请在 Github 帮我点个 Star 或者给予一点赞助，谢谢！
+          <a target="_blank" href="https://xaloweb.com">XALOWEB</a> - Website chia sẻ kiến thức web
         </p>
       </div>
       <p>{{ $t("setting.api") }}：{{ config?.apiModel ?? '-' }}</p>
