@@ -11,6 +11,5 @@ cd service/
 sudo pnpm install 
 cd  
 cd xwbot/ 
-sudo bash start.sh
-tmux new-session -s mysession 
-start.sh 
+sudo tmux new-session -s mysession 
+sudo bash start.sh 
