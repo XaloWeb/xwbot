@@ -2,13 +2,16 @@
   "name": "chatgpt-web-service",
   "version": "1.0.0",
   "private": false,
-  "description": "ChatGPT Web Service",
-  "author": "ChenZhaoYu <chenzhaoyu1994@gmail.com>",
+  "description": "XWBOT",
+  "author": "XWBOT <xwbot@xaloweb.com>",
   "keywords": [
+		"xaloweb",
+		"Xaloweb Tool",
+		"Kiến Thức Web",
     "chatgpt-web",
     "chatgpt",
     "chatbot",
-    "express"
+    "vue"
   ],
   "engines": {
     "node": "^16 || ^18 || ^19"
