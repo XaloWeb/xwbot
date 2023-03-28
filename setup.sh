@@ -1,6 +1,5 @@
 
 sudo apt update 
-sudo apt install curl 
 sudo apt install tmux
 sudo curl -sSL https://deb.nodesource.com/setup_18.x | sudo bash - 
 sudo apt install -y nodejs 
