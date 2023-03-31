@@ -1,4 +1,4 @@
-apt install -y docker
+apt  install -y docker-compose
 sudo curl -sSL https://deb.nodesource.com/setup_18.x | sudo bash - 
 sudo apt install -y nodejs 
 sudo apt install tmux
